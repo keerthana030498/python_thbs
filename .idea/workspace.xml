@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/count_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/full pyramid.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kS5l4xsQVvzCpRTXvhzuvhRyZk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Class and Instance Variables.executor": "Run",
+    "Python.Convert two lists into a dictionary.executor": "Run",
+    "Python.Create a dictionary by extracting the keys from a given dictionary.executor": "Run",
+    "Python.Initialize dictionary with default values.executor": "Run",
+    "Python.Merge two Python dictionaries into one.executor": "Run",
+    "Python.Print the value of key ‘history’ from the below dict.executor": "Run",
+    "Python.Reverse the tuple.executor": "Run",
+    "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
+    "Python.Update set1 by adding items from set2.executor": "Run",
+    "Python.both max and min.executor": "Run",
+    "Python.class creation.executor": "Run",
+    "Python.comma in a sentence.executor": "Run",
+    "Python.count of substring.executor": "Run",
+    "Python.count repeated letters.executor": "Run",
+    "Python.exponent(base, exp).executor": "Run",
+    "Python.full pyramid.executor": "Run",
+    "Python.half pyramid 1.executor": "Run",
+    "Python.half pyramid 2.executor": "Run",
+    "Python.half pyramid inverse.executor": "Run",
+    "Python.intersection_update().executor": "Run",
+    "Python.list1.executor": "Run",
+    "Python.list2.executor": "Run",
+    "Python.list3.executor": "Run",
+    "Python.min and max list.executor": "Run",
+    "Python.min list.executor": "Run",
+    "Python.multiplication table.executor": "Run",
+    "Python.occuerences.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "Python.permutations.executor": "Run",
+    "Python.revers the number.executor": "Run",
+    "Python.second largest.executor": "Run",
+    "Python.set1.executor": "Run",
+    "Python.set2.executor": "Run",
+    "Python.set3.executor": "Run",
+    "Python.set4.executor": "Run",
+    "Python.set5.executor": "Run",
+    "Python.set6.executor": "Run",
+    "Python.set7.executor": "Run",
+    "Python.slicing.executor": "Run",
+    "Python.slicing2.executor": "Run",
+    "Python.sort array.executor": "Run",
+    "Python.string 10.executor": "Run",
+    "Python.string 8.executor": "Run",
+    "Python.string1.executor": "Run",
+    "Python.string2.executor": "Run",
+    "Python.string3.executor": "Run",
+    "Python.string4.executor": "Run",
+    "Python.string5.executor": "Run",
+    "Python.string6.executor": "Run",
+    "Python.string7.executor": "Run",
+    "Python.string9.executor": "Run",
+    "Python.tuple10.executor": "Run",
+    "Python.tuple2.executor": "Run",
+    "Python.tuple3.executor": "Run",
+    "Python.tuple4.executor": "Run",
+    "Python.tuple5.executor": "Run",
+    "Python.tuple6.executor": "Run",
+    "Python.tuple7.executor": "Run",
+    "Python.tuple8.executor": "Run",
+    "Python.tuple9.executor": "Run",
+    "Python.upper casec count.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keerthana_annadurai\PycharmProjects\pythonProject\src\questions\space" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="" />
+      <created>1723264286048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723264286048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/count_digits.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
