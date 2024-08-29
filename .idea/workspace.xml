@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 1" />
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/space/second largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/space/second largest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "keerthana030498"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/keerthana030498/python_thbs.git",
@@ -39,35 +48,52 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Class Inheritance.executor": "Run",
     "Python.Class and Instance Variables.executor": "Run",
     "Python.Convert two lists into a dictionary.executor": "Run",
+    "Python.Create a Class with instance attributes.executor": "Run",
+    "Python.Create a Vehicle class without any variables and methods.executor": "Run",
+    "Python.Create a child class Bus that will inherit all of the variables and methods of the Vehicle class.executor": "Run",
     "Python.Create a dictionary by extracting the keys from a given dictionary.executor": "Run",
+    "Python.Define a property that must have the same value for every class instance (object).executor": "Run",
+    "Python.GCD.executor": "Run",
     "Python.Initialize dictionary with default values.executor": "Run",
     "Python.Merge two Python dictionaries into one.executor": "Run",
     "Python.Print the value of key ‘history’ from the below dict.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
     "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
     "Python.Update set1 by adding items from set2.executor": "Run",
+    "Python.alpha pateern 2.executor": "Run",
+    "Python.alpha pattern.executor": "Run",
+    "Python.anagram.executor": "Run",
     "Python.both max and min.executor": "Run",
+    "Python.capatilize the first word.executor": "Run",
     "Python.class creation.executor": "Run",
     "Python.comma in a sentence.executor": "Run",
+    "Python.common elements.executor": "Run",
     "Python.count of substring.executor": "Run",
     "Python.count repeated letters.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
+    "Python.fibonacci.executor": "Run",
     "Python.full pyramid.executor": "Run",
     "Python.half pyramid 1.executor": "Run",
     "Python.half pyramid 2.executor": "Run",
     "Python.half pyramid inverse.executor": "Run",
     "Python.intersection_update().executor": "Run",
+    "Python.list is empty..executor": "Run",
     "Python.list1.executor": "Run",
     "Python.list2.executor": "Run",
     "Python.list3.executor": "Run",
+    "Python.longest word in a given sentence.executor": "Run",
     "Python.min and max list.executor": "Run",
     "Python.min list.executor": "Run",
     "Python.multiplication table.executor": "Run",
+    "Python.nuimeric pattern.executor": "Run",
     "Python.occuerences.executor": "Run",
     "Python.palindrome.executor": "Run",
+    "Python.perfect square.executor": "Run",
     "Python.permutations.executor": "Run",
+    "Python.prime number.executor": "Run",
     "Python.revers the number.executor": "Run",
     "Python.second largest.executor": "Run",
     "Python.set1.executor": "Run",
@@ -90,6 +116,7 @@
     "Python.string6.executor": "Run",
     "Python.string7.executor": "Run",
     "Python.string9.executor": "Run",
+    "Python.to remove duplicates from a list..executor": "Run",
     "Python.tuple10.executor": "Run",
     "Python.tuple2.executor": "Run",
     "Python.tuple3.executor": "Run",
@@ -134,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724827579084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="practice 2">
+      <option name="closed" value="true" />
+      <created>1724827760129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724827760129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,7 +185,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 1" />
+    <MESSAGE value="practice 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
