@@ -1,4 +1,4 @@
-lst = [20, 340, 50, 10, 30]
+lst =  [100, 5, 8, 20, 3]
 
 largest  = lst[0]
 second_largest = 0
