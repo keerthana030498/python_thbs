@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 3">
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/half pyramid 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/half pyramid 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vowels count.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vowels count.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="keerthana030498 &lt;keerthana.va@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -103,15 +105,20 @@
     "Python.List of words with their first and last letter swapped.executor": "Run",
     "Python.Merge two Python dictionaries into one.executor": "Run",
     "Python.Print the value of key ‘history’ from the below dict.executor": "Run",
+    "Python.Removing whitespace from strings in a list.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
     "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
     "Python.Update set1 by adding items from set2.executor": "Run",
+    "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
+    "Python.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '@', except the first char itself..executor": "Run",
+    "Python.Write a Python program to remove punctuations from a given string..executor": "Run",
     "Python.alpha pateern 2.executor": "Run",
     "Python.alpha pattern.executor": "Run",
     "Python.amstrong number.executor": "Run",
     "Python.anagram.executor": "Run",
     "Python.ate a list of numbers that are divisible by both 3 and 5 from 1 to 100.executor": "Run",
     "Python.both max and min.executor": "Run",
+    "Python.calculate the length of a string..executor": "Run",
     "Python.capatilize the first word.executor": "Run",
     "Python.class creation.executor": "Run",
     "Python.comma in a sentence.executor": "Run",
@@ -235,7 +242,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724922235033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="practice 3">
+      <option name="closed" value="true" />
+      <created>1725023338268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725023338268</updated>
+    </task>
+    <task id="LOCAL-00005" summary="practice 4">
+      <option name="closed" value="true" />
+      <created>1725023357861</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725023357861</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +276,8 @@
     <MESSAGE value="practice 1" />
     <MESSAGE value="practice 2" />
     <MESSAGE value="practice 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 3" />
+    <MESSAGE value="practice 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
