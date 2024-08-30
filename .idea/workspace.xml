@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 2">
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/space/second largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/space/second largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/half pyramid 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/half pyramid 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vowels count.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vowels count.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +57,50 @@
     "Python.Create a Vehicle class without any variables and methods.executor": "Run",
     "Python.Create a child class Bus that will inherit all of the variables and methods of the Vehicle class.executor": "Run",
     "Python.Create a dictionary by extracting the keys from a given dictionary.executor": "Run",
+    "Python.Create a list of characters and their ASCII values.executor": "Run",
+    "Python.Create a list of characters that are digits from a string.executor": "Run",
+    "Python.Create a list of characters that are not alphanumeric from a string.executor": "Run",
+    "Python.Create a list of first characters from a list of words.executor": "Run",
+    "Python.Create a list of lowercase letters.executor": "Run",
+    "Python.Create a list of lowercase vowels from a string.executor": "Run",
+    "Python.Create a list of numbers where each number is doubled.executor": "Run",
+    "Python.Create a list of numbers with their absolute values.executor": "Run",
+    "Python.Create a list of numbers with their factorial values.executor": "Run",
+    "Python.Create a list of numbers with their reciprocal values.executor": "Run",
+    "Python.Create a list of numbers with their square roots.executor": "Run",
+    "Python.Create a list of reversed strings from another list.executor": "Run",
+    "Python.Create a list of squares of even numbers and cubes of odd numbers from -5 to 5.executor": "Run",
+    "Python.Create a list of strings with uppercase first letters.executor": "Run",
+    "Python.Create a list of strings with vowels replaced by asterisks.executor": "Run",
+    "Python.Create a list of uppercase words from a sentence.executor": "Run",
+    "Python.Create a list of words with their characters sorted.executor": "Run",
+    "Python.Create a list of words with their lengths from a sentence.executor": "Run",
+    "Python.Create a list of words with their lengths greater than 3 from a sentence.executor": "Run",
     "Python.Define a property that must have the same value for every class instance (object).executor": "Run",
     "Python.GCD.executor": "Run",
+    "Python.Generate a list of characters from a string.executor": "Run",
+    "Python.Generate a list of numbers that are palindromes from 1 to 100.executor": "Run",
+    "Python.Generate a list of numbers that are perfect squares from 1 to 100.executor": "Run",
+    "Python.Generate a list of numbers that are powers of 2 from 1 to 10.executor": "Run",
+    "Python.Generate a list of numbers with their signs reversed.executor": "Run",
+    "Python.Generate a list of pairs of numbers where the sum of each pair is prime.executor": "Run",
+    "Python.Generate a list of positive numbers from another list.executor": "Run",
+    "Python.Generate a list of prime numbers from 1 to 50.executor": "Run",
+    "Python.Generate a list of strings with their first letters removed.executor": "Run",
+    "Python.Generate a list of strings with their lengths from another list.executor": "Run",
+    "Python.Generate a list of strings with vowels removed.executor": "Run",
+    "Python.Generate a list of tuples containing numbers and their cubes.executor": "Run",
+    "Python.Generate a list of tuples containing numbers and their signs.executor": "Run",
+    "Python.Generate a list of tuples containing numbers and their squares if the number is prime.executor": "Run",
+    "Python.Generate a list of tuples containing numbers and their squares.executor": "Run",
+    "Python.Generate a list of tuples containing two numbers whose sum is even.executor": "Run",
+    "Python.Generate a list of uppercase letters.executor": "Run",
     "Python.Initialize dictionary with default values.executor": "Run",
+    "Python.List of Even numbers from 1 to 20.executor": "Run",
+    "Python.List of Squares of numbers from 1 to 10.executor": "Run",
+    "Python.List of elements with their frequency in a list.executor": "Run",
+    "Python.List of numbers with their divisors.executor": "Run",
+    "Python.List of words with their first and last letter swapped.executor": "Run",
     "Python.Merge two Python dictionaries into one.executor": "Run",
     "Python.Print the value of key ‘history’ from the below dict.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
@@ -65,14 +108,18 @@
     "Python.Update set1 by adding items from set2.executor": "Run",
     "Python.alpha pateern 2.executor": "Run",
     "Python.alpha pattern.executor": "Run",
+    "Python.amstrong number.executor": "Run",
     "Python.anagram.executor": "Run",
+    "Python.ate a list of numbers that are divisible by both 3 and 5 from 1 to 100.executor": "Run",
     "Python.both max and min.executor": "Run",
     "Python.capatilize the first word.executor": "Run",
     "Python.class creation.executor": "Run",
     "Python.comma in a sentence.executor": "Run",
     "Python.common elements.executor": "Run",
+    "Python.common multiples of 3 and 5 up to 100.executor": "Run",
     "Python.count of substring.executor": "Run",
     "Python.count repeated letters.executor": "Run",
+    "Python.even numbers squared and odd numbers cubed from 1 to 10.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.full pyramid.executor": "Run",
@@ -80,13 +127,23 @@
     "Python.half pyramid 2.executor": "Run",
     "Python.half pyramid inverse.executor": "Run",
     "Python.intersection_update().executor": "Run",
+    "Python.lc count cowels.executor": "Run",
+    "Python.lc to find even numbers that are divisible by 5..executor": "Run",
+    "Python.lc_even numbers.executor": "Run",
+    "Python.lc_evn or odd.executor": "Run",
+    "Python.list comprehension.executor": "Run",
     "Python.list is empty..executor": "Run",
+    "Python.list of lengths of words in a sentence.executor": "Run",
+    "Python.list of numbers with their squares if the number is even.executor": "Run",
+    "Python.list of tuples containing a number and its square.executor": "Run",
+    "Python.list of tuples containing even and odd numbers from 1 to 10.executor": "Run",
     "Python.list1.executor": "Run",
     "Python.list2.executor": "Run",
     "Python.list3.executor": "Run",
     "Python.longest word in a given sentence.executor": "Run",
     "Python.min and max list.executor": "Run",
     "Python.min list.executor": "Run",
+    "Python.multiplication table..executor": "Run",
     "Python.multiplication table.executor": "Run",
     "Python.nuimeric pattern.executor": "Run",
     "Python.occuerences.executor": "Run",
@@ -127,6 +184,7 @@
     "Python.tuple8.executor": "Run",
     "Python.tuple9.executor": "Run",
     "Python.upper casec count.executor": "Run",
+    "Python.vowels count.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -169,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724827760129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="practice 3">
+      <option name="closed" value="true" />
+      <created>1724922235033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724922235033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,7 +252,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice 1" />
     <MESSAGE value="practice 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 2" />
+    <MESSAGE value="practice 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,12 +1,25 @@
-string1 = "Heart"
-string2 = "eartH"
+string1 = "Baa credit"
+string2 = "Debit cara"
 
+s1 = string1.lower().replace(" ", "")
+s2 = string2.lower().replace(" ", "")
 
-string_sort = sorted(string1.lower())
-string2_sort =sorted(string2.lower())
+count1 = {}
+count2 = {}
+for char in s1:
+    if char in count1:
+        count1[char] += 1
+    else:
+        count1[char] = 1
 
-if string_sort == string2_sort:
-    print("annagram")
+for char in s2:
+    if char in count2:
+        count2[char] += 1
+    else:
+        count2[char] = 1
+print(f"count1 = {count1}")
+print(f"count2 = {count2}")
+if count1 == count2:
+    print("anagram")
 else:
     print("not anagram")
-
