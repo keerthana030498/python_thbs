@@ -1,10 +1,12 @@
 String = "keerthana"
 vowels = "aeiouAEIOU"
-count = 0
+
 my_dic = dict()
 
 for char in String:
      if char in vowels:
-         count +=1
-         my_dic[char] = count
+         if char in my_dic:
+            my_dic[char] += 1
+         else:
+             my_dic[char] = 1
 print(my_dic)
