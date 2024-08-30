@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 4" />
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +36,12 @@
     &quot;assignee&quot;: &quot;keerthana030498&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/keerthana030498/python_thbs.git&quot;,
-    &quot;accountId&quot;: &quot;3a0a2f56-d958-4bdc-99b2-3729ce0e90ad&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/keerthana030498/python_thbs.git",
+    "accountId": "ce7d8411-b902-439c-bbc9-77f231108a0e"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -106,13 +108,17 @@
     "Python.List of words with their first and last letter swapped.executor": "Run",
     "Python.Merge two Python dictionaries into one.executor": "Run",
     "Python.Print the value of key ‘history’ from the below dict.executor": "Run",
+    "Python.Python program to reverse a string..executor": "Run",
     "Python.Removing whitespace from strings in a list.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
     "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
     "Python.Update set1 by adding items from set2.executor": "Run",
     "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
+    "Python.Write a Python program to count the occurrences of each word in a given sentence.executor": "Run",
     "Python.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '@', except the first char itself..executor": "Run",
+    "Python.Write a Python program to remove a newline in Python..executor": "Run",
     "Python.Write a Python program to remove punctuations from a given string..executor": "Run",
+    "Python.Write a Python script that takes input from the user and displays that input back in upper and lower cases..executor": "Run",
     "Python.alpha pateern 2.executor": "Run",
     "Python.alpha pattern.executor": "Run",
     "Python.amstrong number.executor": "Run",
@@ -131,6 +137,7 @@
     "Python.exponent(base, exp).executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.full pyramid.executor": "Run",
+    "Python.function to reverses a string if it's length is a multiple of 4..executor": "Run",
     "Python.half pyramid 1.executor": "Run",
     "Python.half pyramid 2.executor": "Run",
     "Python.half pyramid inverse.executor": "Run",
@@ -159,6 +166,9 @@
     "Python.perfect square.executor": "Run",
     "Python.permutations.executor": "Run",
     "Python.prime number.executor": "Run",
+    "Python.program to check whether a string starts with specified characters..executor": "Run",
+    "Python.program to reverse words in a string..executor": "Run",
+    "Python.program to swap comma and dot in a string..executor": "Run",
     "Python.revers the number.executor": "Run",
     "Python.second largest.executor": "Run",
     "Python.set1.executor": "Run",
@@ -181,7 +191,15 @@
     "Python.string6.executor": "Run",
     "Python.string7.executor": "Run",
     "Python.string9.executor": "Run",
+    "Python.to change a given string to a new string where the first and last chars have been exchanged  Sample Output  Before Exchange = Python  After Exchange = nythoP  View Solution.executor": "Run",
+    "Python.to convert a given string to all uppercase if it contains at least 2 uppercase characters in the first 4 characters..executor": "Run",
+    "Python.to count and display the vowels of a given text..executor": "Run",
+    "Python.to get a single string from two given strings, separated by a space and swap the first two characters of each string..executor": "Run",
     "Python.to remove duplicates from a list..executor": "Run",
+    "Python.to remove the characters which have odd index values of a given string.executor": "Run",
+    "Python.to remove the nth index character from a nonempty string..executor": "Run",
+    "Python.to sort a string lexicographically.executor": "Run",
+    "Python.to strip a set of characters from a string..executor": "Run",
     "Python.tuple10.executor": "Run",
     "Python.tuple2.executor": "Run",
     "Python.tuple3.executor": "Run",
@@ -206,7 +224,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
