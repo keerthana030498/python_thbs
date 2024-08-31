@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 5">
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/to remove duplicate characters of a given string.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/to remove duplicate characters of a given string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,10 +166,16 @@
     "Python.occuerences.executor": "Run",
     "Python.palindrome.executor": "Run",
     "Python.perfect square.executor": "Run",
+    "Python.permuatations.executor": "Run",
     "Python.permutations.executor": "Run",
     "Python.prime number.executor": "Run",
+    "Python.print a list of first and last 5 elements where the values are square of numbers between 1 and 30.executor": "Run",
+    "Python.program to add a list to the second list.executor": "Run",
     "Python.program to check whether a string starts with specified characters..executor": "Run",
     "Python.program to delete all occurrences of a specified character in a given string..executor": "Run",
+    "Python.program to find common items from two lists.executor": "Run",
+    "Python.program to flatten a shallow list.executor": "Run",
+    "Python.program to get unique values from a list.executor": "Run",
     "Python.program to reverse words in a string..executor": "Run",
     "Python.program to swap cases of a given string..executor": "Run",
     "Python.program to swap comma and dot in a string..executor": "Run",
@@ -196,29 +201,47 @@
     "Python.string6.executor": "Run",
     "Python.string7.executor": "Run",
     "Python.string9.executor": "Run",
+    "Python.that get two lists as input and check if they have at least one common member.executor": "Run",
     "Python.to change a given string to a new string where the first and last chars have been exchanged  Sample Output  Before Exchange = Python  After Exchange = nythoP  View Solution.executor": "Run",
+    "Python.to check a list is empty or not.executor": "Run",
     "Python.to check whether a given string contains a capital letter, a lower case letter, a number and a minimum length..executor": "Run",
+    "Python.to clone or copy a list.executor": "Run",
     "Python.to compute sum of digits of a given string..executor": "Run",
     "Python.to convert a given string to all uppercase if it contains at least 2 uppercase characters in the first 4 characters..executor": "Run",
+    "Python.to convert a list of characters into a string.executor": "Run",
     "Python.to count Uppercase, Lowercase, special character and numeric values in a given string.executor": "Run",
     "Python.to count and display the vowels of a given text..executor": "Run",
     "Python.to count number of non-empty substrings of a given string..executor": "Run",
     "Python.to count number of substrings with same first and last characters of a given string..executor": "Run",
+    "Python.to count unique values inside a list.executor": "Run",
     "Python.to create a string from two given strings concatenating uncommon characters of the said strings.executor": "Run",
     "Python.to find smallest and largest word in a given string..executor": "Run",
     "Python.to find the first repeated word in a given string..executor": "Run",
+    "Python.to find the index of an item in a specified list.executor": "Run",
+    "Python.to find the list of words that are longer than n from a given list of words.executor": "Run",
+    "Python.to find the second largest number in a list.executor": "Run",
+    "Python.to find the second smallest number in a list.executor": "Run",
     "Python.to get a single string from two given strings, separated by a space and swap the first two characters of each string..executor": "Run",
+    "Python.to get the frequency of the elements in a list..executor": "Run",
+    "Python.to get the largest number from a list.executor": "Run",
+    "Python.to get the smallest number from a list.executor": "Run",
     "Python.to move all spaces to the front of a given string in single traversal..executor": "Run",
+    "Python.to multiply all the items in a list.executor": "Run",
+    "Python.to print the numbers of a specified list after removing even numbers from it.executor": "Run",
     "Python.to remove all consecutive duplicates of a given string.executor": "Run",
     "Python.to remove duplicate characters of a given string.executor": "Run",
     "Python.to remove duplicate words from a given string..executor": "Run",
     "Python.to remove duplicates from a list..executor": "Run",
+    "Python.to remove duplicates from a list.executor": "Run",
     "Python.to remove punctuations from a given string..executor": "Run",
     "Python.to remove the characters which have odd index values of a given string.executor": "Run",
     "Python.to remove the nth index character from a nonempty string..executor": "Run",
+    "Python.to select the odd number of a list.executor": "Run",
+    "Python.to shuffle and print a specified list.executor": "Run",
     "Python.to sort a string lexicographically.executor": "Run",
     "Python.to split a given multiline string into a list of lines.executor": "Run",
     "Python.to strip a set of characters from a string..executor": "Run",
+    "Python.to sum all the items.executor": "Run",
     "Python.to wrap a given string into a paragraph of given width..executor": "Run",
     "Python.tuple10.executor": "Run",
     "Python.tuple2.executor": "Run",
@@ -329,7 +352,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725041084768</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="practice 5">
+      <option name="closed" value="true" />
+      <created>1725121792370</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725121792370</updated>
+    </task>
+    <task id="LOCAL-00011" summary="practice 6">
+      <option name="closed" value="true" />
+      <created>1725121801838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725121801838</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,7 +389,8 @@
     <MESSAGE value="git issue" />
     <MESSAGE value="practice 4" />
     <MESSAGE value="practice 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 5" />
+    <MESSAGE value="practice 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
