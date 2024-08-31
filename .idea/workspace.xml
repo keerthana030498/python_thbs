@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 4">
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/to remove duplicate characters of a given string.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/to remove duplicate characters of a given string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +37,12 @@
     &quot;assignee&quot;: &quot;keerthana030498&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/keerthana030498/python_thbs.git",
-    "accountId": "ce7d8411-b902-439c-bbc9-77f231108a0e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/keerthana030498/python_thbs.git&quot;,
+    &quot;accountId&quot;: &quot;ce7d8411-b902-439c-bbc9-77f231108a0e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -115,6 +116,7 @@
     "Python.Update set1 by adding items from set2.executor": "Run",
     "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
     "Python.Write a Python program to count the occurrences of each word in a given sentence.executor": "Run",
+    "Python.Write a Python program to find the index of a given string at which a given substring starts. If the substring is not found in the given string Not found..executor": "Run",
     "Python.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '@', except the first char itself..executor": "Run",
     "Python.Write a Python program to remove a newline in Python..executor": "Run",
     "Python.Write a Python program to remove punctuations from a given string..executor": "Run",
@@ -136,6 +138,7 @@
     "Python.even numbers squared and odd numbers cubed from 1 to 10.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
     "Python.fibonacci.executor": "Run",
+    "Python.find the common values that appear in two given strings.executor": "Run",
     "Python.full pyramid.executor": "Run",
     "Python.function to reverses a string if it's length is a multiple of 4..executor": "Run",
     "Python.half pyramid 1.executor": "Run",
@@ -167,7 +170,9 @@
     "Python.permutations.executor": "Run",
     "Python.prime number.executor": "Run",
     "Python.program to check whether a string starts with specified characters..executor": "Run",
+    "Python.program to delete all occurrences of a specified character in a given string..executor": "Run",
     "Python.program to reverse words in a string..executor": "Run",
+    "Python.program to swap cases of a given string..executor": "Run",
     "Python.program to swap comma and dot in a string..executor": "Run",
     "Python.revers the number.executor": "Run",
     "Python.second largest.executor": "Run",
@@ -192,14 +197,29 @@
     "Python.string7.executor": "Run",
     "Python.string9.executor": "Run",
     "Python.to change a given string to a new string where the first and last chars have been exchanged  Sample Output  Before Exchange = Python  After Exchange = nythoP  View Solution.executor": "Run",
+    "Python.to check whether a given string contains a capital letter, a lower case letter, a number and a minimum length..executor": "Run",
+    "Python.to compute sum of digits of a given string..executor": "Run",
     "Python.to convert a given string to all uppercase if it contains at least 2 uppercase characters in the first 4 characters..executor": "Run",
+    "Python.to count Uppercase, Lowercase, special character and numeric values in a given string.executor": "Run",
     "Python.to count and display the vowels of a given text..executor": "Run",
+    "Python.to count number of non-empty substrings of a given string..executor": "Run",
+    "Python.to count number of substrings with same first and last characters of a given string..executor": "Run",
+    "Python.to create a string from two given strings concatenating uncommon characters of the said strings.executor": "Run",
+    "Python.to find smallest and largest word in a given string..executor": "Run",
+    "Python.to find the first repeated word in a given string..executor": "Run",
     "Python.to get a single string from two given strings, separated by a space and swap the first two characters of each string..executor": "Run",
+    "Python.to move all spaces to the front of a given string in single traversal..executor": "Run",
+    "Python.to remove all consecutive duplicates of a given string.executor": "Run",
+    "Python.to remove duplicate characters of a given string.executor": "Run",
+    "Python.to remove duplicate words from a given string..executor": "Run",
     "Python.to remove duplicates from a list..executor": "Run",
+    "Python.to remove punctuations from a given string..executor": "Run",
     "Python.to remove the characters which have odd index values of a given string.executor": "Run",
     "Python.to remove the nth index character from a nonempty string..executor": "Run",
     "Python.to sort a string lexicographically.executor": "Run",
+    "Python.to split a given multiline string into a list of lines.executor": "Run",
     "Python.to strip a set of characters from a string..executor": "Run",
+    "Python.to wrap a given string into a paragraph of given width..executor": "Run",
     "Python.tuple10.executor": "Run",
     "Python.tuple2.executor": "Run",
     "Python.tuple3.executor": "Run",
@@ -301,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725032530170</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="practice 5">
+      <option name="closed" value="true" />
+      <created>1725041084768</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725041084768</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +349,8 @@
     <MESSAGE value="practice 3" />
     <MESSAGE value="git issue" />
     <MESSAGE value="practice 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 4" />
+    <MESSAGE value="practice 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
