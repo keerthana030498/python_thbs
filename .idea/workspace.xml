@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 7">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_06_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_06_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/permutations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
     "Python.Removing whitespace from strings in a list.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
     "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
-    "Python.Sort a tuple of tuples by 2nd item.executor": "Run",
+    "Python.String upper.executor": "Run",
     "Python.Update set1 by adding items from set2.executor": "Run",
     "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
     "Python.Write a Python program to count the occurrences of each word in a given sentence.executor": "Run",
@@ -137,6 +137,7 @@
     "Python.common multiples of 3 and 5 up to 100.executor": "Run",
     "Python.count of substring.executor": "Run",
     "Python.count repeated letters.executor": "Run",
+    "Python.cube of num.executor": "Run",
     "Python.even numbers squared and odd numbers cubed from 1 to 10.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
     "Python.factorial.executor": "Run",
@@ -148,6 +149,7 @@
     "Python.half pyramid 2.executor": "Run",
     "Python.half pyramid inverse.executor": "Run",
     "Python.intersection_update().executor": "Run",
+    "Python.lamda example 1.executor": "Run",
     "Python.lc count cowels.executor": "Run",
     "Python.lc to find even numbers that are divisible by 5..executor": "Run",
     "Python.lc_even numbers.executor": "Run",
@@ -266,6 +268,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keert\PycharmProjects\python_thbs\src" />
       <recent name="C:\Users\keerthana_annadurai\PycharmProjects\pythonProject\src\questions\space" />
     </key>
   </component>
