@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 6">
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +136,7 @@
     "Python.count repeated letters.executor": "Run",
     "Python.even numbers squared and odd numbers cubed from 1 to 10.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
+    "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.find the common values that appear in two given strings.executor": "Run",
     "Python.full pyramid.executor": "Run",
@@ -202,6 +203,7 @@
     "Python.string7.executor": "Run",
     "Python.string9.executor": "Run",
     "Python.that get two lists as input and check if they have at least one common member.executor": "Run",
+    "Python.to List product excluding duplicates.executor": "Run",
     "Python.to change a given string to a new string where the first and last chars have been exchanged  Sample Output  Before Exchange = Python  After Exchange = nythoP  View Solution.executor": "Run",
     "Python.to check a list is empty or not.executor": "Run",
     "Python.to check whether a given string contains a capital letter, a lower case letter, a number and a minimum length..executor": "Run",
@@ -368,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725121801838</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="practice 7">
+      <option name="closed" value="true" />
+      <created>1725128079321</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725128079321</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +400,8 @@
     <MESSAGE value="practice 4" />
     <MESSAGE value="practice 5" />
     <MESSAGE value="practice 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 6" />
+    <MESSAGE value="practice 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
