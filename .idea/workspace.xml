@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 7">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_06_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_06_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -112,6 +114,7 @@
     "Python.Removing whitespace from strings in a list.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
     "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
+    "Python.Sort a tuple of tuples by 2nd item.executor": "Run",
     "Python.Update set1 by adding items from set2.executor": "Run",
     "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
     "Python.Write a Python program to count the occurrences of each word in a given sentence.executor": "Run",
