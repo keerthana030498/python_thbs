@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 7">
+    <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 6">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02-09-2024_12_51__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02-09-2024_12_51__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_06_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_06_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_29_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_9_29_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_11_07_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_11_07_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_9_43_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_9_43_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/space/second largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/space/second largest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +38,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -38,12 +45,12 @@
     &quot;assignee&quot;: &quot;keerthana030498&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/keerthana030498/python_thbs.git&quot;,
-    &quot;accountId&quot;: &quot;ce7d8411-b902-439c-bbc9-77f231108a0e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/keerthana030498/python_thbs.git",
+    "accountId": "3a0a2f56-d958-4bdc-99b2-3729ce0e90ad"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -57,6 +64,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.. Modify the tuple.executor": "Run",
     "Python.Class Inheritance.executor": "Run",
     "Python.Class and Instance Variables.executor": "Run",
     "Python.Convert two lists into a dictionary.executor": "Run",
@@ -114,7 +122,8 @@
     "Python.Removing whitespace from strings in a list.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
     "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
-    "Python.String upper.executor": "Run",
+    "Python.Swap two tuples in Python2.executor": "Run",
+    "Python.Unpack the tuple into 5 variables.executor": "Run",
     "Python.Update set1 by adding items from set2.executor": "Run",
     "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
     "Python.Write a Python program to count the occurrences of each word in a given sentence.executor": "Run",
@@ -123,6 +132,7 @@
     "Python.Write a Python program to remove a newline in Python..executor": "Run",
     "Python.Write a Python program to remove punctuations from a given string..executor": "Run",
     "Python.Write a Python script that takes input from the user and displays that input back in upper and lower cases..executor": "Run",
+    "Python.a tuple with single item 23.executor": "Run",
     "Python.alpha pateern 2.executor": "Run",
     "Python.alpha pattern.executor": "Run",
     "Python.amstrong number.executor": "Run",
@@ -137,10 +147,8 @@
     "Python.common multiples of 3 and 5 up to 100.executor": "Run",
     "Python.count of substring.executor": "Run",
     "Python.count repeated letters.executor": "Run",
-    "Python.cube of num.executor": "Run",
     "Python.even numbers squared and odd numbers cubed from 1 to 10.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
-    "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.find the common values that appear in two given strings.executor": "Run",
     "Python.full pyramid.executor": "Run",
@@ -149,7 +157,8 @@
     "Python.half pyramid 2.executor": "Run",
     "Python.half pyramid inverse.executor": "Run",
     "Python.intersection_update().executor": "Run",
-    "Python.lamda example 1.executor": "Run",
+    "Python.json another file.executor": "Run",
+    "Python.json file -- key value.executor": "Run",
     "Python.lc count cowels.executor": "Run",
     "Python.lc to find even numbers that are divisible by 5..executor": "Run",
     "Python.lc_even numbers.executor": "Run",
@@ -169,6 +178,7 @@
     "Python.multiplication table..executor": "Run",
     "Python.multiplication table.executor": "Run",
     "Python.nuimeric pattern.executor": "Run",
+    "Python.number of occurrences of item 30 from a tuple.executor": "Run",
     "Python.occuerences.executor": "Run",
     "Python.palindrome.executor": "Run",
     "Python.perfect square.executor": "Run",
@@ -177,15 +187,26 @@
     "Python.prime number.executor": "Run",
     "Python.print a list of first and last 5 elements where the values are square of numbers between 1 and 30.executor": "Run",
     "Python.program to add a list to the second list.executor": "Run",
+    "Python.program to add an item in a tuple.executor": "Run",
+    "Python.program to add member(s) in a set.executor": "Run",
     "Python.program to check whether a string starts with specified characters..executor": "Run",
+    "Python.program to compute element-wise sum of given tuples.executor": "Run",
+    "Python.program to convert a tuple to a dictionary.executor": "Run",
+    "Python.program to create a tuple with different data types.executor": "Run",
+    "Python.program to create a tuple.executor": "Run",
     "Python.program to delete all occurrences of a specified character in a given string..executor": "Run",
     "Python.program to find common items from two lists.executor": "Run",
+    "Python.program to find the duplicate characters in a string.executor": "Run",
+    "Python.program to find the length of a tuple.executor": "Run",
     "Python.program to flatten a shallow list.executor": "Run",
     "Python.program to get unique values from a list.executor": "Run",
     "Python.program to reverse words in a string..executor": "Run",
+    "Python.program to slice a tuple.executor": "Run",
     "Python.program to swap cases of a given string..executor": "Run",
     "Python.program to swap comma and dot in a string..executor": "Run",
+    "Python.program to unzip a list of tuples into individual lists.executor": "Run",
     "Python.revers the number.executor": "Run",
+    "Python.reverse a sentence.executor": "Run",
     "Python.second largest.executor": "Run",
     "Python.set1.executor": "Run",
     "Python.set2.executor": "Run",
@@ -197,6 +218,8 @@
     "Python.slicing.executor": "Run",
     "Python.slicing2.executor": "Run",
     "Python.sort array.executor": "Run",
+    "Python.sort dictionary.executor": "Run",
+    "Python.specific elements from one tuple to a new tuple.executor": "Run",
     "Python.string 10.executor": "Run",
     "Python.string 8.executor": "Run",
     "Python.string1.executor": "Run",
@@ -208,47 +231,67 @@
     "Python.string7.executor": "Run",
     "Python.string9.executor": "Run",
     "Python.that get two lists as input and check if they have at least one common member.executor": "Run",
-    "Python.to List product excluding duplicates.executor": "Run",
     "Python.to change a given string to a new string where the first and last chars have been exchanged  Sample Output  Before Exchange = Python  After Exchange = nythoP  View Solution.executor": "Run",
     "Python.to check a list is empty or not.executor": "Run",
     "Python.to check whether a given string contains a capital letter, a lower case letter, a number and a minimum length..executor": "Run",
+    "Python.to check whether an element exists within a tuple.executor": "Run",
     "Python.to clone or copy a list.executor": "Run",
     "Python.to compute sum of digits of a given string..executor": "Run",
     "Python.to convert a given string to all uppercase if it contains at least 2 uppercase characters in the first 4 characters..executor": "Run",
     "Python.to convert a list of characters into a string.executor": "Run",
+    "Python.to convert a list of tuples into a dictionary.executor": "Run",
+    "Python.to convert a list to a tuple.executor": "Run",
+    "Python.to convert a tuple to a string.executor": "Run",
     "Python.to count Uppercase, Lowercase, special character and numeric values in a given string.executor": "Run",
     "Python.to count and display the vowels of a given text..executor": "Run",
     "Python.to count number of non-empty substrings of a given string..executor": "Run",
     "Python.to count number of substrings with same first and last characters of a given string..executor": "Run",
     "Python.to count unique values inside a list.executor": "Run",
+    "Python.to create a set.executor": "Run",
     "Python.to create a string from two given strings concatenating uncommon characters of the said strings.executor": "Run",
+    "Python.to create a symmetric difference.executor": "Run",
+    "Python.to create a tuple with numbers and print one item.executor": "Run",
+    "Python.to create a union of sets.executor": "Run",
+    "Python.to create an intersection of sets2.executor": "Run",
+    "Python.to create set difference.executor": "Run",
+    "Python.to create the colon of a tuple.executor": "Run",
     "Python.to find smallest and largest word in a given string..executor": "Run",
     "Python.to find the first repeated word in a given string..executor": "Run",
     "Python.to find the index of an item in a specified list.executor": "Run",
+    "Python.to find the index of an item of a tuple.executor": "Run",
     "Python.to find the list of words that are longer than n from a given list of words.executor": "Run",
+    "Python.to find the repeated items of a tuple.executor": "Run",
     "Python.to find the second largest number in a list.executor": "Run",
     "Python.to find the second smallest number in a list.executor": "Run",
     "Python.to get a single string from two given strings, separated by a space and swap the first two characters of each string..executor": "Run",
+    "Python.to get the 4th element and 4th element from last of a tuple.executor": "Run",
     "Python.to get the frequency of the elements in a list..executor": "Run",
     "Python.to get the largest number from a list.executor": "Run",
     "Python.to get the smallest number from a list.executor": "Run",
+    "Python.to iteration over sets.executor": "Run",
     "Python.to move all spaces to the front of a given string in single traversal..executor": "Run",
     "Python.to multiply all the items in a list.executor": "Run",
+    "Python.to print a tuple with string formatting.executor": "Run",
     "Python.to print the numbers of a specified list after removing even numbers from it.executor": "Run",
     "Python.to remove all consecutive duplicates of a given string.executor": "Run",
+    "Python.to remove an item from a tuple.executor": "Run",
     "Python.to remove duplicate characters of a given string.executor": "Run",
     "Python.to remove duplicate words from a given string..executor": "Run",
     "Python.to remove duplicates from a list..executor": "Run",
     "Python.to remove duplicates from a list.executor": "Run",
+    "Python.to remove item(s) from a given set.executor": "Run",
     "Python.to remove punctuations from a given string..executor": "Run",
     "Python.to remove the characters which have odd index values of a given string.executor": "Run",
     "Python.to remove the nth index character from a nonempty string..executor": "Run",
+    "Python.to replace last value of tuples in a list.executor": "Run",
+    "Python.to reverse a tuple.executor": "Run",
     "Python.to select the odd number of a list.executor": "Run",
     "Python.to shuffle and print a specified list.executor": "Run",
     "Python.to sort a string lexicographically.executor": "Run",
     "Python.to split a given multiline string into a list of lines.executor": "Run",
     "Python.to strip a set of characters from a string..executor": "Run",
     "Python.to sum all the items.executor": "Run",
+    "Python.to unpack a tuple in several variables.executor": "Run",
     "Python.to wrap a given string into a paragraph of given width..executor": "Run",
     "Python.tuple10.executor": "Run",
     "Python.tuple2.executor": "Run",
@@ -268,14 +311,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\keert\PycharmProjects\python_thbs\src" />
       <recent name="C:\Users\keerthana_annadurai\PycharmProjects\pythonProject\src\questions\space" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
       </set>
     </attachedChunks>
   </component>
@@ -376,15 +418,7 @@
       <option name="project" value="LOCAL" />
       <updated>1725121801838</updated>
     </task>
-    <task id="LOCAL-00012" summary="practice 7">
-      <option name="closed" value="true" />
-      <created>1725128079321</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1725128079321</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,8 +440,7 @@
     <MESSAGE value="practice 4" />
     <MESSAGE value="practice 5" />
     <MESSAGE value="practice 6" />
-    <MESSAGE value="practice 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
