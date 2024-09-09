@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 9">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02-09-2024_12_51_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/space/json_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/space/json_value.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +39,12 @@
     &quot;assignee&quot;: &quot;keerthana030498&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/keerthana030498/python_thbs.git",
-    "accountId": "3a0a2f56-d958-4bdc-99b2-3729ce0e90ad"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/keerthana030498/python_thbs.git&quot;,
+    &quot;accountId&quot;: &quot;3a0a2f56-d958-4bdc-99b2-3729ce0e90ad&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -118,6 +121,8 @@
     "Python.Update set1 by adding items from set2.executor": "Run",
     "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
     "Python.Write a Python program to count the occurrences of each word in a given sentence.executor": "Run",
+    "Python.Write a Python program to create a calculator class. Include methods for basic arithmetic operations..executor": "Run",
+    "Python.Write a Python program to create a class representing a shopping cart. Include methods for adding and removing items, and calculating the total price..executor": "Run",
     "Python.Write a Python program to find the index of a given string at which a given substring starts. If the substring is not found in the given string Not found..executor": "Run",
     "Python.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '@', except the first char itself..executor": "Run",
     "Python.Write a Python program to remove a newline in Python..executor": "Run",
@@ -129,16 +134,20 @@
     "Python.amstrong number.executor": "Run",
     "Python.anagram.executor": "Run",
     "Python.ate a list of numbers that are divisible by both 3 and 5 from 1 to 100.executor": "Run",
+    "Python.banking example.executor": "Run",
     "Python.both max and min.executor": "Run",
     "Python.calculate the length of a string..executor": "Run",
     "Python.capatilize the first word.executor": "Run",
+    "Python.class and object.executor": "Run",
     "Python.class creation.executor": "Run",
+    "Python.class1.executor": "Run",
     "Python.comma in a sentence.executor": "Run",
     "Python.common elements.executor": "Run",
     "Python.common multiples of 3 and 5 up to 100.executor": "Run",
     "Python.count of substring.executor": "Run",
     "Python.count repeated letters.executor": "Run",
     "Python.even numbers squared and odd numbers cubed from 1 to 10.executor": "Run",
+    "Python.example 1.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.find the common values that appear in two given strings.executor": "Run",
@@ -147,6 +156,7 @@
     "Python.half pyramid 1.executor": "Run",
     "Python.half pyramid 2.executor": "Run",
     "Python.half pyramid inverse.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.intersection_update().executor": "Run",
     "Python.json _ key.executor": "Run",
     "Python.json another file.executor": "Run",
@@ -178,8 +188,10 @@
     "Python.perfect square.executor": "Run",
     "Python.permuatations.executor": "Run",
     "Python.permutations.executor": "Run",
+    "Python.polymorphsim.executor": "Run",
     "Python.prime number.executor": "Run",
     "Python.print a list of first and last 5 elements where the values are square of numbers between 1 and 30.executor": "Run",
+    "Python.print number between 1,10.executor": "Run",
     "Python.program to add a list to the second list.executor": "Run",
     "Python.program to add an item in a tuple.executor": "Run",
     "Python.program to add member(s) in a set.executor": "Run",
@@ -225,6 +237,7 @@
     "Python.string7.executor": "Run",
     "Python.string9.executor": "Run",
     "Python.that get two lists as input and check if they have at least one common member.executor": "Run",
+    "Python.to Find Sum of Array.executor": "Run",
     "Python.to change a given string to a new string where the first and last chars have been exchanged  Sample Output  Before Exchange = Python  After Exchange = nythoP  View Solution.executor": "Run",
     "Python.to check a list is empty or not.executor": "Run",
     "Python.to check whether a given string contains a capital letter, a lower case letter, a number and a minimum length..executor": "Run",
@@ -287,6 +300,7 @@
     "Python.to sum all the items.executor": "Run",
     "Python.to unpack a tuple in several variables.executor": "Run",
     "Python.to wrap a given string into a paragraph of given width..executor": "Run",
+    "Python.tuple error.executor": "Run",
     "Python.tuple10.executor": "Run",
     "Python.tuple2.executor": "Run",
     "Python.tuple3.executor": "Run",
@@ -305,6 +319,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keerthana_annadurai\PycharmProjects\python_thbs\src\oops" />
+      <recent name="C:\Users\keerthana_annadurai\PycharmProjects\python_thbs\src" />
       <recent name="C:\Users\keerthana_annadurai\PycharmProjects\pythonProject\src\questions\space" />
     </key>
   </component>
@@ -420,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725433527972</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="practice 9">
+      <option name="closed" value="true" />
+      <created>1725450268091</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725450268091</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
