@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 9">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02-09-2024_12_51_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02-09-2024_12_51__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_8_43_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_8_43_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/questions/space/json_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/space/json_value.py" afterDir="false" />
     </list>
@@ -86,6 +88,7 @@
     "Python.Create a list of words with their lengths from a sentence.executor": "Run",
     "Python.Create a list of words with their lengths greater than 3 from a sentence.executor": "Run",
     "Python.Define a property that must have the same value for every class instance (object).executor": "Run",
+    "Python.Employee with subclasses Manager and Developer..executor": "Run",
     "Python.GCD.executor": "Run",
     "Python.Generate a list of characters from a string.executor": "Run",
     "Python.Generate a list of numbers that are palindromes from 1 to 100.executor": "Run",
@@ -104,6 +107,7 @@
     "Python.Generate a list of tuples containing numbers and their squares.executor": "Run",
     "Python.Generate a list of tuples containing two numbers whose sum is even.executor": "Run",
     "Python.Generate a list of uppercase letters.executor": "Run",
+    "Python.Inhertiance - Animal with subclasses Dog and Cat..executor": "Run",
     "Python.Initialize dictionary with default values.executor": "Run",
     "Python.List of Even numbers from 1 to 20.executor": "Run",
     "Python.List of Squares of numbers from 1 to 10.executor": "Run",
@@ -115,10 +119,12 @@
     "Python.Python program to reverse a string..executor": "Run",
     "Python.Removing whitespace from strings in a list.executor": "Run",
     "Python.Reverse the tuple.executor": "Run",
+    "Python.Shape Classes - inheritance.executor": "Run",
     "Python.Sort Python Dictionaries by Key or Value.executor": "Run",
     "Python.Swap two tuples in Python2.executor": "Run",
     "Python.Unpack the tuple into 5 variables.executor": "Run",
     "Python.Update set1 by adding items from set2.executor": "Run",
+    "Python.Vehicle with subclasses Car and Bicycle. inhertiance.executor": "Run",
     "Python.Write a Python program to count the number of characters (character frequency) in a string..executor": "Run",
     "Python.Write a Python program to count the occurrences of each word in a given sentence.executor": "Run",
     "Python.Write a Python program to create a calculator class. Include methods for basic arithmetic operations..executor": "Run",
@@ -133,6 +139,7 @@
     "Python.alpha pattern.executor": "Run",
     "Python.amstrong number.executor": "Run",
     "Python.anagram.executor": "Run",
+    "Python.api url inheritiance.executor": "Run",
     "Python.ate a list of numbers that are divisible by both 3 and 5 from 1 to 100.executor": "Run",
     "Python.banking example.executor": "Run",
     "Python.both max and min.executor": "Run",
@@ -141,6 +148,7 @@
     "Python.class and object.executor": "Run",
     "Python.class creation.executor": "Run",
     "Python.class1.executor": "Run",
+    "Python.class3.executor": "Run",
     "Python.comma in a sentence.executor": "Run",
     "Python.common elements.executor": "Run",
     "Python.common multiples of 3 and 5 up to 100.executor": "Run",
@@ -444,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725450268091</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="practice 9">
+      <option name="closed" value="true" />
+      <created>1725890252109</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725890252109</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
