@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa2a047-312e-4982-9a53-abe685ee55e3" name="Changes" comment="practice 9">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02-09-2024_12_51__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_8_43_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_8_43_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/space/json_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/space/json_value.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +130,7 @@
     "Python.Write a Python program to remove punctuations from a given string..executor": "Run",
     "Python.Write a Python script that takes input from the user and displays that input back in upper and lower cases..executor": "Run",
     "Python.a tuple with single item 23.executor": "Run",
+    "Python.abstraction and encasukation.executor": "Run",
     "Python.alpha pateern 2.executor": "Run",
     "Python.alpha pattern.executor": "Run",
     "Python.amstrong number.executor": "Run",
@@ -154,6 +150,8 @@
     "Python.common multiples of 3 and 5 up to 100.executor": "Run",
     "Python.count of substring.executor": "Run",
     "Python.count repeated letters.executor": "Run",
+    "Python.dummy class.executor": "Run",
+    "Python.dummy jsnon.executor": "Run",
     "Python.even numbers squared and odd numbers cubed from 1 to 10.executor": "Run",
     "Python.example 1.executor": "Run",
     "Python.exponent(base, exp).executor": "Run",
@@ -161,10 +159,12 @@
     "Python.find the common values that appear in two given strings.executor": "Run",
     "Python.full pyramid.executor": "Run",
     "Python.function to reverses a string if it's length is a multiple of 4..executor": "Run",
+    "Python.get,set,del methods.executor": "Run",
     "Python.half pyramid 1.executor": "Run",
     "Python.half pyramid 2.executor": "Run",
     "Python.half pyramid inverse.executor": "Run",
     "Python.inheritance.executor": "Run",
+    "Python.instance attributes.executor": "Run",
     "Python.intersection_update().executor": "Run",
     "Python.json _ key.executor": "Run",
     "Python.json another file.executor": "Run",
@@ -318,6 +318,7 @@
     "Python.tuple7.executor": "Run",
     "Python.tuple8.executor": "Run",
     "Python.tuple9.executor": "Run",
+    "Python.type and isinstance().executor": "Run",
     "Python.upper casec count.executor": "Run",
     "Python.vowels count.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -460,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725890252109</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="practice 9">
+      <option name="closed" value="true" />
+      <created>1725970883418</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725970883418</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
