@@ -1,5 +1,3 @@
-import json
-
 json_string = {
     "name": "keer",
     "age": 26,
@@ -8,30 +6,27 @@ json_string = {
         "street": "nagarbhavi",
         "city": "bangalore"
     },
-    "country": {
-        "street": "mysore",
-        "place": "india"
-    },
     "phonenumbers": [
         {
             "type": "home",
             "number": "9399393"
         },
         {
-            "loc": "work",
-            "num": "9393349393"
+            "type": "work",
+            "number": "9393349393"
         }
     ],
     "is_Active": "true"
 }
 
 
-keys = input("enter the input :::")
-key_list = keys.split('.')
-print(key_list)
-value = json_string
-for k in key_list:
-    if k.isdigit():
-        k = int(k)
-    value = value[k]
-print(value)
+dat = json_string
+keys = input("enter the keys required to get its value")
+keys_list = keys.split('.')
+print(keys_list)
+
+for key in keys_list:
+    if key.isdigit():
+        key = int(key)
+    dat = dat[key]
+print(dat)
